@@ -28,7 +28,7 @@ const emanuele = {
         misc: ["Firebase", "Socket.IO", "open-cv", "php"]
     },
     architecture: ["Microservices", "Event-Driven", "Design System Pattern", "Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Currently working at DERNetSoft"
+    currentFocus: "Currently working at DERNetSoft",
     funFact: "Pingu’s not actually saying “Noot Noot!” but “Nüg nüg”🐧 "
 }
 ```  
