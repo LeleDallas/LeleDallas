@@ -12,7 +12,7 @@
 
 ```javascript
 const emanuele = {
- pronouns: "He" | "Him",
+    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "Scala", "C", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "music🎧"],
     technologies: {
