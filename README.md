@@ -1,14 +1,13 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Emanuele Dall'Ara! <img src="https://media.giphy.com/media/20PA8HwdrWlgL6AzbU/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/0IXc0cv9ossaPUV7XE/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.dernetsoft.com/">DERNetSoft
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Emanuele Dall'Ara](https://img.shields.io/badge/-Emanuele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuele-dall-ara-40b3311a7/)](https://www.linkedin.com/in/emanuele-dall-ara-40b3311a7/)
 ![GitHub followers](https://img.shields.io/github/followers/LeleDallas?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=LeleDallas)
 
-### A little more about me...  <img src="https://media.giphy.com/media/0IXc0cv9ossaPUV7XE/giphy.gif" height="50">  
+### A little more about me... 
 
 ```javascript
 const emanuele = {
@@ -78,13 +77,11 @@ const emanuele = {
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=leledallas&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leledallas&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>
+</tr></table>
 <br />
