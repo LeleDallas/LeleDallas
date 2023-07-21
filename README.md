@@ -12,7 +12,7 @@
     </i><br>
   
 [![Linkedin: Emanuele Dall'Ara](https://img.shields.io/badge/-Emanuele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuele-dall-ara-40b3311a7/)](https://www.linkedin.com/in/emanuele-dall-ara-40b3311a7/)
-    <a href="https://leetcode.com/LeleDallas">
+    <a href="https://stackoverflow.com/users/20091055/dallas">
         <img src="https://img.shields.io/badge/-Stackoverflow-blue?style=for-the-badge&logo=stack-overflow&logoColor=orange&style=flat-square" alt="Stackoverflow">
     </a>
     <a href="https://leetcode.com/LeleDallas">
