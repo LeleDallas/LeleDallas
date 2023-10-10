@@ -7,7 +7,6 @@
     <b>Welcome to my page!</b>
     <br><br>
     <i>
-        Currently working as Software Engineer at <a href="https://www.dernetsoft.com/">DERNetSoft.</a><br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
   
