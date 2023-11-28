@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/Tgvn82bqJT36lkVqDZ/giphy.gif" width="50"/> 
     Hi, I'm Emanuele Dall'Ara! <img src="https://media.giphy.com/media/20PA8HwdrWlgL6AzbU/giphy.gif" width="50">
 </h1>
-<img align='right' src="https://media.giphy.com/media/0IXc0cv9ossaPUV7XE/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif" width="230">
 <p align="center">
     <b>Welcome to my page!</b>
     <br><br>
