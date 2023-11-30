@@ -34,7 +34,6 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue)](https://github.com/LeleDallas)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<details>
 <p align="center">
   <a href="https://github.com/LeleDallas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeleDallas&theme=transparent" />
@@ -49,7 +48,6 @@
     <br/>
     <img alt="Leetcode Stats" src="https://leetcode.card.workers.dev/LeleDallas?theme=dark&font=source_code_pro&extension=null"/>
 </p>
-</details>
 
 
 <p align="center">
