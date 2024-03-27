@@ -24,15 +24,13 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,java,scala,c,cpp,cs,py,latex,md" alt="skills logos" />
 
 ### Technologies, Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,docker,git,github,githubactions,gitlab,jest,vite,react,styledcomponents,rollupjs,postman,nodejs,figma" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,docker,git,github,githubactions,gitlab,jest,vite,vitest,react,styledcomponents,rollupjs,postman,nodejs,bun,mongodb,figma" alt="skills logos" />
 
 ### Hosting/SaaS
-<img src="https://skillicons.dev/icons?i=firebase,gcp" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=firebase,gcp,aws" alt="skills logos" />
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/LeleDallas)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=blue)](https://github.com/LeleDallas)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+<img src="https://skillicons.dev/icons?i=linux,windows,apple" alt="os logos" />
 
 <p align="center">
   <a href="https://github.com/LeleDallas">
