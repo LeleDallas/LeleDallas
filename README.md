@@ -17,6 +17,9 @@
     <a href="https://leetcode.com/LeleDallas">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
+    <a href="https://app.warp.dev/referral/MP39PJ">
+        <img src="https://img.shields.io/badge/warp-blue?style=flat-square&logo=warp" alt="warp"/>
+    </a>
 ![GitHub followers](https://img.shields.io/github/followers/LeleDallas?label=Follow&style=social)
 </p>
 
