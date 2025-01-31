@@ -59,11 +59,6 @@
   </a>
     <br/>
     <br/>
-    <img alt="Leetcode Stats" src="https://leetcode.card.workers.dev/LeleDallas?theme=dark&font=source_code_pro&extension=null"/>
-</p>
-
-<p align="center">
-    <a href="https://app.daily.dev/leledallas"><img src="./devcard.png" width="356" alt="Emanuele Dall'Ara's Dev Card"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/LeleDallas">
