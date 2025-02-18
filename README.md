@@ -30,7 +30,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,jest,vitest,rollupjs,storybook,styledcomponents" alt="frameworks and libraries logos" />
 
 ### Build Tools
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vite,bun,npm" alt="build tools logos" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vite,bun,npm,yarn,pnpm" alt="build tools logos" />
 
 ### Version Control & CI/CD
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,bitbucket" alt="version control and ci/cd logos" />
