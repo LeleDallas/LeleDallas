@@ -27,7 +27,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,html,css,java,scala,c,cpp,cs,py,latex,md" alt="skills logos" />
 
 ### Frameworks & Libraries
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,jest,vitest,rollupjs,storybook,styledcomponents" alt="frameworks and libraries logos" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,nodejs,express,jest,vitest,rollupjs,storybook,styledcomponents" alt="frameworks and libraries logos" />
 
 ### Build Tools
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vite,bun,npm,yarn,pnpm" alt="build tools logos" />
