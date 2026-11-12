@@ -23,30 +23,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/LeleDallas?label=Follow&style=social)
 </p>
 
-### Languages
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,html,css,java,scala,c,cpp,cs,py,latex,md" alt="skills logos" />
-
-### Frameworks & Libraries
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,nodejs,express,jest,vitest,rollupjs,storybook,styledcomponents" alt="frameworks and libraries logos" />
-
-### Build Tools
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vite,bun,npm,yarn,pnpm" alt="build tools logos" />
-
-### Version Control & CI/CD
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,bitbucket" alt="version control and ci/cd logos" />
-
-### Development Tools
-<img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,xcode,arduino,bash,docker,postman,apidog,figma,jira,slack" alt="development tools logos" />
-
-### Databases
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="databases logos" />
-
-### Hosting/SaaS
-<img src="https://go-skill-icons.vercel.app/api/icons?i=firebase,gcp,aws,githubpages" alt="hosting and saas logos" />
-
-### Operating Systems
-<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,windows,apple" alt="os logos" />
-
 <p align="center">
   <a href="https://github.com/LeleDallas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeleDallas&theme=transparent" />
